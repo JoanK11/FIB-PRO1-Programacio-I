@@ -14,7 +14,7 @@ int evaluate(const vector<int>& p, int x)
     }
     return total;
 }
-
+/*
 int main()
 {
     // Agafem el nombre d'elements
@@ -29,3 +29,4 @@ int main()
         cout << evaluate(P, x) << endl;
     }
 }
+*/
