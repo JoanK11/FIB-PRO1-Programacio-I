@@ -25,4 +25,4 @@ int main() {
         canvi(a);
     }
     cout << count << endl;
-} 
+}
