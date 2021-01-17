@@ -21,9 +21,9 @@ int supera_alfa(const Alumnos& alus) {
     int count = 0;
     int alus_size = alus.size();
     for (int i = 0; i < alus_size; ++i) {
-        int ass_size = alus[i].asigs.size();
+        int asigs_size = alus[i].asigs.size();
         double mitjana = 0, tcredits = 0;
-        for (int j = 0; j < ass_size; ++j) {
+        for (int j = 0; j < asigs_size; ++j) {
             mitjana += alus[i].asigs[j].creditos*alus[i].asigs[j].nota;
             tcredits += alus[i].asigs[j].creditos;
         }
@@ -35,9 +35,8 @@ int supera_alfa(const Alumnos& alus) {
 
 // Pre: a l'entrada hi ha informació de m assignatures
 // Post: retorna un vector de Asignatura amb la informació de l'entrada,
-//          mantenint l'ordre d'aparició
+//       mantenint l'ordre d'aparició
 vector <Asignatura> lee_asignaturas(int m) {
-   // el teu codi aquí
    vector<Asignatura> v(m);
    for (int i = 0; i < m; ++i) {
        cin >> v[i].id >> v[i].creditos >> v[i].nota;
