@@ -5,12 +5,12 @@ using namespace std;
 typedef vector<int> Row;
 typedef vector<Row> Matrix;
 
-// read matrix NxN from cin
+// Read matrix NxN from cin
 Matrix readMatrix(int n) {
     Matrix m(n, vector<int>(n));
-    for (int i = 0; i < n; ++i)
-        for (int j = 0; j < n; ++j)
-            cin >> m[i][j];
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < n; ++j) cin >> m[i][j];
+    }
     return m;
 }
 
@@ -19,14 +19,13 @@ void printMatrix(const Matrix &m) {
     int n = m.size();
     for (int i = 0; i < n; ++i) {
         cout << m[i][0];
-        for (int j = 1; j < n; ++j)
-            cout << " " << m[i][j];
+        for (int j = 1; j < n; ++j) cout << " " << m[i][j];
         cout << endl;
     }
     cout << endl;
 }
 
-// find position of largest element in diagonal, from position (i,i) to the end.
+// Find position of largest element in diagonal, from position (i,i) to the end.
 // If there are more than one elements with maximum value, return position
 // of the first one.
 int maxpos(const Matrix &m, int i) {
@@ -39,14 +38,14 @@ int maxpos(const Matrix &m, int i) {
     return max;
 }
 
-// swap row i and row p in given matrix
+// Swap row i and row p in given matrix
 void swaprow(Matrix &m, int i, int p) {
     Row x = m[i];
     m[i] = m[p];
     m[p] = x;
 }
 
-// swap column j and column p in given matrix
+// Swap column j and column p in given matrix
 void swapcolumn(Matrix &m, int j, int p) {
     int n = m.size();
     for (int i = 0; i < n; ++i) {
@@ -56,7 +55,7 @@ void swapcolumn(Matrix &m, int j, int p) {
     }
 }
 
-// reorder matrix
+// Reorder matrix
 void reorder(Matrix &m) {
     int n = m.size();
     for (int i = 0; i < n; ++i) {
