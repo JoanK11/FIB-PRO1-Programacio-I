@@ -6,9 +6,9 @@ using namespace std;
 vector<int> unique(const vector<int>& v) {
     vector<int> u, w = v;
     sort(w.begin(), w.end());
-    int size = w.size();
-    if (size > 0) u.push_back(w[0]);
-    for (int i = 1; i < size; ++i) {
+    int n = v.size();
+    if (n > 0) u.push_back(w[0]);
+    for (int i = 1; i < n; ++i) {
         if (w[i] != w[i - 1]) u.push_back(w[i]); 
     }
     return u;
@@ -40,4 +40,4 @@ int main() {
         cout << ") = "; write_vector(u); 
         cout << endl;
     } 
-}    
+}
