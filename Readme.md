@@ -31,3 +31,11 @@
 | [P59875 - Cap avall](https://jutge.org/problems/P59875_ca) | [P59875.cc]
 | [P97156 - Nombres en un interval](https://jutge.org/problems/P97156_ca) | [P97156.cc](https://github.com/JoanK11/PRO1/blob/main/src/P97156-Nombres_en_un_interval.cc)
 | [P36668 - Suma de quadrats](https://jutge.org/problems/P36668_ca) | [P36668.cc](https://github.com/JoanK11/PRO1/blob/main/src/P36668-Suma_de_quadrats.cc)
+| [P59539 . Nombres harmònics (1)](https://jutge.org/problems/P59539_ca) | [P59539.cc](https://github.com/JoanK11/PRO1/blob/main/src/P59539-Nombres_harmonics_(1).cc)
+| [P55622 - Nombre de dígits (1)](https://jutge.org/problems/P55622_ca) | [P55622.cc](https://github.com/JoanK11/PRO1/blob/main/src/P55622-Nombre_de_digits_(1).cc)
+| [P74398 - Número de cifras](https://jutge.org/problems/P74398_es) | [P74398.cc](https://github.com/JoanK11/PRO1/blob/main/src/P74398-Numero_de_cifras.cc)
+| [P50327 - Número del revés](https://jutge.org/problems/P50327_ca) | [P50327.cc](https://github.com/JoanK11/PRO1/blob/main/src/P50327-Numero_del_reves.cc)
+| [P28754 - Número del revés en binari](https://jutge.org/problems/P28754_ca) | [P28754.cc](https://github.com/JoanK11/PRO1/blob/main/src/P28754-Numero_del_reves_en_binari.cc)
+| [P60816 - Número del revés en hexadecimal](https://jutge.org/problems/P60816_ca) | [P60816.cc](https://github.com/JoanK11/PRO1/blob/main/src/P60816-Numero_del_reves_en_hexadecimal.cc)
+| [P39057 - Càlcul d'àrees](https://jutge.org/problems/P39057_ca) | [P39057.cc](https://github.com/JoanK11/PRO1/blob/main/src/P39057-Calcul_d'arees.cc)
+| [X32391 - Assignació (2)](https://jutge.org/problems/X32391_ca) | [X32391.cc](https://github.com/JoanK11/PRO1/blob/main/src/X32391-Assignacio_(2).cc)
