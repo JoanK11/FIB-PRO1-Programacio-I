@@ -30,3 +30,4 @@
 | [P64976 - Control C201B](https://jutge.org/problems/P64976_ca) | [P64976.cc](https://github.com/JoanK11/PRO1/blob/main/src/P64976-Control_C201B.cc)
 | [P59875 - Cap avall](https://jutge.org/problems/P59875_ca) | [P59875.cc]
 | [P97156 - Nombres en un interval](https://jutge.org/problems/P97156_ca) | [P97156.cc](https://github.com/JoanK11/PRO1/blob/main/src/P97156-Nombres_en_un_interval.cc)
+| [P36668 - Suma de quadrats](https://jutge.org/problems/P36668_ca) | [P36668.cc](https://github.com/JoanK11/PRO1/blob/main/src/P36668-Suma_de_quadrats.cc)
