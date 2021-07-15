@@ -28,5 +28,5 @@
 | [P37500 - Primers nombres](https://jutge.org/problems/P37500_ca) | [P37500.cc](https://github.com/JoanK11/PRO1/blob/main/src/P37500-Primers_nombres.cc)
 | [P31170 - Taula de multiplicar](https://jutge.org/problems/P31170_ca) | [P31170.cc](https://github.com/JoanK11/PRO1/blob/main/src/P31170-Taula_de_multiplicar.cc)
 | [P64976 - Control C201B](https://jutge.org/problems/P64976_ca) | [P64976.cc](https://github.com/JoanK11/PRO1/blob/main/src/P64976-Control_C201B.cc)
-| [P59875 - Cap avall](https://jutge.org/problems/P59875_ca) | [P59875.cc]()
+| [P59875 - Cap avall](https://jutge.org/problems/P59875_ca) | [P59875.cc]
 | [P97156 - Nombres en un interval](https://jutge.org/problems/P97156_ca) | [P97156.cc](https://github.com/JoanK11/PRO1/blob/main/src/P97156-Nombres_en_un_interval.cc)
