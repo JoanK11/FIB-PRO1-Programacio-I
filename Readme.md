@@ -39,3 +39,12 @@
 | [P60816 - Número del revés en hexadecimal](https://jutge.org/problems/P60816_ca) | [P60816.cc](https://github.com/JoanK11/PRO1/blob/main/src/P60816-Numero_del_reves_en_hexadecimal.cc)
 | [P39057 - Càlcul d'àrees](https://jutge.org/problems/P39057_ca) | [P39057.cc](https://github.com/JoanK11/PRO1/blob/main/src/P39057-Calcul_d'arees.cc)
 | [X32391 - Assignació (2)](https://jutge.org/problems/X32391_ca) | [X32391.cc](https://github.com/JoanK11/PRO1/blob/main/src/X32391-Assignacio_(2).cc)
+| [P97969 - Comptant as (1)](https://jutge.org/problems/P97969_ca) | [P97969.cc](https://github.com/JoanK11/PRO1/blob/main/src/P97969-Comptant_as_(1).cc)
+| [P78142 - Mitjana](https://jutge.org/problems/P78142_ca) | [P78142.cc](https://github.com/JoanK11/PRO1/blob/main/src/P78142-Mitjana.cc)
+| [P65171 - Control C202B](https://jutge.org/problems/P65171_ca) | [P65171.cc]
+| [P38614 - Control C201A](https://jutge.org/problems/P38614_ca) | [P38614.cc]
+| [P34451 - Control C201C](https://jutge.org/problems/P34451_ca) | [P34451.cc](https://github.com/JoanK11/PRO1/blob/main/src/P34451-Control_C201C.cc)
+| [P27341 - Control C202D](https://jutge.org/problems/P27341_ca) | [P27341.cc](https://github.com/JoanK11/PRO1/blob/main/src/P27341-Control_C202D.cc)
+| [P85370 - Interessos (1)](https://jutge.org/problems/P85370_ca) | [P85370.cc]
+
+# P3 - More Loops
