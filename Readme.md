@@ -48,3 +48,24 @@
 | [P85370 - Interessos (1)](https://jutge.org/problems/P85370_ca) | [P85370.cc]
 
 # P3 - More Loops
+| Jutge Problem | Solution |
+|---------------|----------|
+| [P79817 - Potències](https://jutge.org/problems/P79817_ca) | [P79817.cc](https://github.com/JoanK11/PRO1/blob/main/src/P79817-Potencies.cc)
+| [P33839 - Suma de dígits](https://jutge.org/problems/P33839_ca) | [P33839.cc](https://github.com/JoanK11/PRO1/blob/main/src/P33839-Suma_de_digits.cc)
+| [X08783 - Quàntes xifres?](https://jutge.org/problems/X08783_ca) | [X08783.cc](https://github.com/JoanK11/PRO1/blob/main/src/X08783-Quantes_xifres%3F.cc)
+| [X01646 - Suma de dígits (2)](https://jutge.org/problems/X01646_ca) | [X01646.cc](https://github.com/JoanK11/PRO1/blob/main/src/X01646-Suma_de_digits_(2).cc)
+| [P29973 - Triangle](https://jutge.org/problems/P29973_ca) | [P29973.cc](https://github.com/JoanK11/PRO1/blob/main/src/P29973-Triangle.cc)
+| [P32533 - Control C202E](https://jutge.org/problems/P32533_ca) | [P32533.cc](https://github.com/JoanK11/PRO1/blob/main/src/P32533-Control_C202E.cc)
+| [P42280 - Tauler d'escacs (1)](https://jutge.org/problems/P42280_ca) | [P42280.cc](https://github.com/JoanK11/PRO1/blob/main/src/P42280-Tauler_d'escacs_(1).cc)
+| [P13623 - Tauler d'escacs (2)](https://jutge.org/problems/P13623_ca) | [P13623.cc]
+| [P87198 - Octàgons facilets](https://jutge.org/problems/P87198_ca) | [P87198.cc]
+| [P58153 - Nombres harmònics (2)](https://jutge.org/problems/P58153_ca) | [P58153.cc](https://github.com/JoanK11/PRO1/blob/main/src/P58153-Nombres_harmònics_(2).cc)
+| [P80660 - La seqüència de Collatz](https://jutge.org/problems/P80660_ca) | [P80660.cc](https://github.com/JoanK11/PRO1/blob/main/src/P80660-La%20sequencia_de_Collatz.cc)
+| [X59091 - Rectangles (2)](https://jutge.org/problems/X59091_ca) | [X59091.cc](https://github.com/JoanK11/PRO1/blob/main/src/X59091-Rectangles_(2).cc)
+
+# P4.1 - Sequence basics
+| Jutge Problem | Solution |
+|---------------|----------|
+| [P67454 - Comptant as (2)](https://jutge.org/problems/P67454_ca) | [P67454.cc](https://github.com/JoanK11/PRO1/blob/main/src/P67454-Comptant_as_(2).cc)
+| [P75149 - Buscant una a](https://jutge.org/problems/P75149_ca) | [P75149.cc]
+| [P79784 - Moviments en el pla](https://jutge.org/problems/P79784_ca) | [P79784.cc](https://github.com/JoanK11/PRO1/blob/main/src/P79784-Moviments_en_el_pla.cc)
