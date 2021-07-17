@@ -69,3 +69,18 @@
 | [P67454 - Comptant as (2)](https://jutge.org/problems/P67454_ca) | [P67454.cc](https://github.com/JoanK11/PRO1/blob/main/src/P67454-Comptant_as_(2).cc)
 | [P75149 - Buscant una a](https://jutge.org/problems/P75149_ca) | [P75149.cc]
 | [P79784 - Moviments en el pla](https://jutge.org/problems/P79784_ca) | [P79784.cc](https://github.com/JoanK11/PRO1/blob/main/src/P79784-Moviments_en_el_pla.cc)
+| [P89078 - Primera posició](https://jutge.org/problems/P89078_ca) | [P89078.cc]
+| [P32046 - Control C202F](https://jutge.org/problems/P32046_ca) | [P32046.cc]
+| [P39225 - I-èsim (1)](https://jutge.org/problems/P39225_ca) | [P39225.cc]
+| [P65103 - I-èsim (3)](https://jutge.org/problems/P65103_ca) | [P65103.cc]
+| [P48713 - Primalitat](https://jutge.org/problems/P48713_ca) | [P48713.cc]
+| [P31111 - Parèntesis](https://jutge.org/problems/P31111_ca) | [P31111.cc]
+| [P23001 - Paraules consecutives repetides](https://jutge.org/problems/P23001_ca) | [P23001.cc]
+| [P12061 - Paraules entre altres dues](https://jutge.org/problems/P12061_ca) | [P12061.cc]
+| [P89872 - Segona paraula màxima](https://jutge.org/problems/P89872_ca) | [P89872.cc]
+| [P39308 - Divisors en ordre](https://jutge.org/problems/P39308_ca) | [P39308.cc]
+
+#  Consolidation 1 --------------
+| Jutge Problem | Solution |
+|---------------|----------|
+| [P57315 - ABC](https://jutge.org/problems/P57315_es) | [P57315.cc]
