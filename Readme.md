@@ -84,3 +84,19 @@
 | Jutge Problem | Solution |
 |---------------|----------|
 | [P57315 - ABC](https://jutge.org/problems/P57315_es) | [P57315.cc]
+| [P96589 - Control C101C](https://jutge.org/problems/P96589_ca) | [P96589.cc](https://github.com/JoanK11/PRO1/blob/main/src/P96589-Control_C101C.cc)
+| [X98097 - Posicions senars i parelles relacionades](https://jutge.org/problems/X98097_ca) | [X98097.cc](https://github.com/JoanK11/PRO1/blob/main/src/X98097-Posicions_senars_i_parelles_relacionades.cc)
+| [P19991 - Tauler d'escacs (3)](https://jutge.org/problems/P19991_ca) | [P19991.cc](https://github.com/JoanK11/PRO1/blob/main/src/P19991-Tauler_d'escacs_(3).cc)
+| [P7602 - Suma de fraccions](https://jutge.org/problems/P76024_ca) | [P7602.cc](https://github.com/JoanK11/PRO1/blob/main/src/P7602-Suma_de_fraccions.cc)
+| [P24080 - Quadrats (1)](https://jutge.org/problems/P24080_ca) | [P24080.cc](https://github.com/JoanK11/PRO1/blob/main/src/P24080-Quadrats_(1).cc)
+| [X80452 - Segells](https://jutge.org/problems/X80452_ca) | [X80452.cc](https://github.com/JoanK11/PRO1/blob/main/src/X80452-Segells.cc)
+| [X50286 - Quàntes hola?](https://jutge.org/problems/X50286_ca) | [X50286.cc](https://github.com/JoanK11/PRO1/blob/main/src/X50286-Quantes_hola.cc)
+| [X84338 - Suma de meitats d'un número relacionades](https://jutge.org/problems/X84338_ca) | [X84338.cc]
+| [P96767 - Avaluació de polinomis (1)](https://jutge.org/problems/P96767_ca) | [P96767.cc](https://github.com/JoanK11/PRO1/blob/main/src/P96767-Avaluacio_de_polinomis_(1).cc)
+| [P72484 - Rombe](https://jutge.org/problems/P72484_ca) | [P72484.cc](https://github.com/JoanK11/PRO1/blob/main/src/P72484-Rombe.cc)
+| [P61061 - Producte de dígits](https://jutge.org/problems/P61061_ca) | [P61061.cc]
+| [P87323 - Rectangles diagonals](https://jutge.org/problems/P87323_ca) | [P87323.cc](https://github.com/JoanK11/PRO1/blob/main/src/P87323-Rectangles_diagonals.cc)
+
+# P4.2 - Sequence extension
+| Jutge Problem | Solution |
+|---------------|----------|
