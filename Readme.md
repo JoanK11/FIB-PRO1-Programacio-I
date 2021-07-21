@@ -100,3 +100,15 @@
 # P4.2 - Sequence extension
 | Jutge Problem | Solution |
 |---------------|----------|
+| [P17179 - Mesures estadístiques](https://jutge.org/problems/P17179_ca) | [P17179.cc](https://github.com/JoanK11/PRO1/blob/main/src/P17179-Mesures_estadistiques.cc)
+| [P90620 - La Pica d'Estats](https://jutge.org/problems/P90620_ca) | [P90620.cc](https://github.com/JoanK11/PRO1/blob/main/src/P90620-La_Pica_d'Estats.cc)
+| [P71753 - Màxim de cada seqüència](https://jutge.org/problems/P71753_ca) | [P71753.cc](https://github.com/JoanK11/PRO1/blob/main/src/P71753-Maxim_de_cada_sequencia.cc)
+| [P73501 - Parells creixents](https://jutge.org/problems/P73501_ca) | [P73501.cc]
+| [P35957 - Dígits centrals](https://jutge.org/problems/P35957_ca) | [P35957.cc]
+| [P89979 - Línies ordenades (1)](https://jutge.org/problems/P89979_ca) | [P89979.cc](https://github.com/JoanK11/PRO1/blob/main/src/P89979-Linies_ordenades_(1).cc)
+| [P49603 - Línies ordenades (2)](https://jutge.org/problems/P49603_ca) | [P49603.cc]
+| [P87523 - Hola-adéu](https://jutge.org/problems/P87523_ca) | [P87523.cc]
+
+# P5 - Functions & Procedures
+| Jutge Problem | Solution |
+|---------------|----------|
