@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     int n;
     while (cin >> n) {
         int max;
@@ -10,8 +9,7 @@ int main()
         for (int i = 1; i < n; ++i) {
             int x;
             cin >> x;
-            if (x > max)
-                max = x;
+            if (x > max) max = x;
         }
         cout << max << endl;
     }
