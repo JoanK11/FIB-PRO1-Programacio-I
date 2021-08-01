@@ -2,8 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     cout.setf(ios::fixed);
     cout.precision(6);
     double x;
