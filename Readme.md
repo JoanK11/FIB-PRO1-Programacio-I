@@ -112,3 +112,28 @@
 # P5 - Functions & Procedures
 | Jutge Problem | Solution |
 |---------------|----------|
+| [P38045 - Càlcul d'arrels i de quadrats](https://jutge.org/problems/P38045_ca) | [P38045.cc](https://github.com/JoanK11/PRO1/blob/main/src/P38045-Calcul_d'arrels_i_de_quadrats.cc)
+| [P37760 - Trigonometria](https://jutge.org/problems/P37760_ca) | [P37760.cc](https://github.com/JoanK11/PRO1/blob/main/src/P37760-Trigonometria.cc)
+| [X04437 - Distància a l'origen](https://jutge.org/problems/X04437_ca) | [X04437.cc]
+| [X46340 - Funció per la suma del mínim i el màxim de tres enters](https://jutge.org/problems/X46340_ca) | [X46340.cc]
+| [P73231 - Màxim de quatre enters](https://jutge.org/problems/P73231_ca) | [P73231.cc](https://github.com/JoanK11/PRO1/blob/main/src/P73231-Maxim_de_quatre_enters.cc)
+| [P95401 - Funció per als anys de traspàs](https://jutge.org/problems/P95401_ca) | [P95401.cc](https://github.com/JoanK11/PRO1/blob/main/src/P95401-Funcio_per_als_anys_de_traspas.cc)
+| [P58459 - Dates vàlides](https://jutge.org/problems/P58459_ca) | [P58459.cc]
+| [P65437 - Intercanvi](https://jutge.org/problems/P65437_ca) | [P65437.cc](https://github.com/JoanK11/PRO1/blob/main/src/P65437-Intercanvi.cc)
+| [P57474 - Factorial iteratiu](https://jutge.org/problems/P57474_ca) | [P57474.cc](https://github.com/JoanK11/PRO1/blob/main/src/P57474-Factorial_iteratiu.cc)
+| [P22654 - Descomposició horària (2)](https://jutge.org/problems/P22654_ca) | [P22654.cc]
+| [P77686 - Capicues](https://jutge.org/problems/P77686_ca) | [P77686.cc]
+| [X00639 - Comparant fraccions](https://jutge.org/problems/X00639_ca) | [X00639.cc](https://github.com/JoanK11/PRO1/blob/main/src/X00639-Comparant_fraccions.cc)
+| [P58653 - Classificació de caràcters (2)](https://jutge.org/problems/P58653_ca) | [P58653.cc](https://github.com/JoanK11/PRO1/blob/main/src/P58653-Classificacio_de_caracters_(2).cc)
+| [P24381 - Escriviu una creu](https://jutge.org/problems/P24381_ca) | [P24381.cc]
+| [P59652 - Llegiu un nombre racional (1)](https://jutge.org/problems/P59652_ca) | [P59652.cc](https://github.com/JoanK11/PRO1/blob/main/src/P59652-Llegiu_un_nombre_racional_(1).cc)
+| [P34091 - Nombres perfectes](https://jutge.org/problems/P34091_ca) | [P34091.cc](https://github.com/JoanK11/PRO1/blob/main/src/P34091-Nombres_perfectes.cc)
+| [P21281 - Factor més frequent](https://jutge.org/problems/P21281_ca) | [P21281.cc](https://github.com/JoanK11/PRO1/blob/main/src/P21281-Factor_mes_frequent.cc)
+| [P50095 - Següent primer](https://jutge.org/problems/P50095_ca) | [P50095.cc]
+| [P33371 - Codi Cèsar](https://jutge.org/problems/P33371_ca) | [P33371.cc]
+| [X06314 - Seqüències similars (2)](https://jutge.org/problems/X06314_ca) | [X06314.cc]
+| [X58169 - Posicions d'un màxim a dues seqüències](https://jutge.org/problems/X58169_ca) | [X58169.cc]
+
+# P6 - Recursion
+| Jutge Problem | Solution |
+|---------------|----------|
