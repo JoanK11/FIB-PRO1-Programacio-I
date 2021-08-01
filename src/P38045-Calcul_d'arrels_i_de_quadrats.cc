@@ -2,12 +2,11 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     cout.setf(ios::fixed);
     cout.precision(6);
     int x;
     while (cin >> x) {
-        cout << x * x << ' ' << sqrt(x) << endl;
+        cout << x*x << ' ' << sqrt(x) << endl;
     }
 }
