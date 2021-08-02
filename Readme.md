@@ -1,7 +1,7 @@
 # P1 - Introduction
 
-| Jutge Problem | Solution |
-|---------------|----------|
+| Problema Jutge | Solució |
+|----------------|---------|
 | [X54725 - Mínim de dos enters](https://jutge.org/problems/X54725_ca) | [X54725.cc](https://github.com/JoanK11/PRO1/blob/main/src/X54725-Minim_de_dos_enters.cc)
 | [P90615 - Màxim de tres enters](https://jutge.org/problems/P90615_ca) | [P90615.cc](https://github.com/JoanK11/PRO1/blob/main/src/P90615-Maxim_de_tres_enters.cc)
 | [P92613 - Arrodoniments](https://jutge.org/problems/P92613_ca) | [P92613.cc]
@@ -23,8 +23,8 @@
 
 # P2 - First Loops
 
-| Jutge Problem | Solution |
-|---------------|----------|
+| Problema Jutge | Solució |
+|----------------|---------|
 | [P37500 - Primers nombres](https://jutge.org/problems/P37500_ca) | [P37500.cc](https://github.com/JoanK11/PRO1/blob/main/src/P37500-Primers_nombres.cc)
 | [P31170 - Taula de multiplicar](https://jutge.org/problems/P31170_ca) | [P31170.cc](https://github.com/JoanK11/PRO1/blob/main/src/P31170-Taula_de_multiplicar.cc)
 | [P64976 - Control C201B](https://jutge.org/problems/P64976_ca) | [P64976.cc](https://github.com/JoanK11/PRO1/blob/main/src/P64976-Control_C201B.cc)
@@ -48,8 +48,8 @@
 | [P85370 - Interessos (1)](https://jutge.org/problems/P85370_ca) | [P85370.cc]
 
 # P3 - More Loops
-| Jutge Problem | Solution |
-|---------------|----------|
+| Problema Jutge | Solució |
+|----------------|---------|
 | [P79817 - Potències](https://jutge.org/problems/P79817_ca) | [P79817.cc](https://github.com/JoanK11/PRO1/blob/main/src/P79817-Potencies.cc)
 | [P33839 - Suma de dígits](https://jutge.org/problems/P33839_ca) | [P33839.cc](https://github.com/JoanK11/PRO1/blob/main/src/P33839-Suma_de_digits.cc)
 | [X08783 - Quàntes xifres?](https://jutge.org/problems/X08783_ca) | [X08783.cc](https://github.com/JoanK11/PRO1/blob/main/src/X08783-Quantes_xifres%3F.cc)
@@ -64,8 +64,8 @@
 | [X59091 - Rectangles (2)](https://jutge.org/problems/X59091_ca) | [X59091.cc](https://github.com/JoanK11/PRO1/blob/main/src/X59091-Rectangles_(2).cc)
 
 # P4.1 - Sequence basics
-| Jutge Problem | Solution |
-|---------------|----------|
+| Problema Jutge | Solució |
+|----------------|---------|
 | [P67454 - Comptant as (2)](https://jutge.org/problems/P67454_ca) | [P67454.cc](https://github.com/JoanK11/PRO1/blob/main/src/P67454-Comptant_as_(2).cc)
 | [P75149 - Buscant una a](https://jutge.org/problems/P75149_ca) | [P75149.cc]
 | [P79784 - Moviments en el pla](https://jutge.org/problems/P79784_ca) | [P79784.cc](https://github.com/JoanK11/PRO1/blob/main/src/P79784-Moviments_en_el_pla.cc)
@@ -81,8 +81,8 @@
 | [P39308 - Divisors en ordre](https://jutge.org/problems/P39308_ca) | [P39308.cc]
 
 #  Consolidation 1 --------------
-| Jutge Problem | Solution |
-|---------------|----------|
+| Problema Jutge | Solució |
+|----------------|---------|
 | [P57315 - ABC](https://jutge.org/problems/P57315_es) | [P57315.cc]
 | [P96589 - Control C101C](https://jutge.org/problems/P96589_ca) | [P96589.cc](https://github.com/JoanK11/PRO1/blob/main/src/P96589-Control_C101C.cc)
 | [X98097 - Posicions senars i parelles relacionades](https://jutge.org/problems/X98097_ca) | [X98097.cc](https://github.com/JoanK11/PRO1/blob/main/src/X98097-Posicions_senars_i_parelles_relacionades.cc)
@@ -98,8 +98,8 @@
 | [P87323 - Rectangles diagonals](https://jutge.org/problems/P87323_ca) | [P87323.cc](https://github.com/JoanK11/PRO1/blob/main/src/P87323-Rectangles_diagonals.cc)
 
 # P4.2 - Sequence extension
-| Jutge Problem | Solution |
-|---------------|----------|
+| Problema Jutge | Solució |
+|----------------|---------|
 | [P17179 - Mesures estadístiques](https://jutge.org/problems/P17179_ca) | [P17179.cc](https://github.com/JoanK11/PRO1/blob/main/src/P17179-Mesures_estadistiques.cc)
 | [P90620 - La Pica d'Estats](https://jutge.org/problems/P90620_ca) | [P90620.cc](https://github.com/JoanK11/PRO1/blob/main/src/P90620-La_Pica_d'Estats.cc)
 | [P71753 - Màxim de cada seqüència](https://jutge.org/problems/P71753_ca) | [P71753.cc](https://github.com/JoanK11/PRO1/blob/main/src/P71753-Maxim_de_cada_sequencia.cc)
@@ -110,8 +110,8 @@
 | [P87523 - Hola-adéu](https://jutge.org/problems/P87523_ca) | [P87523.cc]
 
 # P5 - Functions & Procedures
-| Jutge Problem | Solution |
-|---------------|----------|
+| Problema Jutge | Solució |
+|----------------|---------|
 | [P38045 - Càlcul d'arrels i de quadrats](https://jutge.org/problems/P38045_ca) | [P38045.cc](https://github.com/JoanK11/PRO1/blob/main/src/P38045-Calcul_d'arrels_i_de_quadrats.cc)
 | [P37760 - Trigonometria](https://jutge.org/problems/P37760_ca) | [P37760.cc](https://github.com/JoanK11/PRO1/blob/main/src/P37760-Trigonometria.cc)
 | [X04437 - Distància a l'origen](https://jutge.org/problems/X04437_ca) | [X04437.cc]
@@ -135,5 +135,24 @@
 | [X58169 - Posicions d'un màxim a dues seqüències](https://jutge.org/problems/X58169_ca) | [X58169.cc]
 
 # P6 - Recursion
-| Jutge Problem | Solution |
-|---------------|----------|
+| Problema Jutge | Solució |
+|----------------|---------|
+| [P12509 - Factorial recursiu](https://jutge.org/problems/P12509_ca) | [P12509.cc](https://github.com/JoanK11/PRO1/blob/main/src/P12509-Factorial_recursiu.cc)
+| [P51222 - Nombre de dígits recursiu](https://jutge.org/problems/P51222_ca) | [P51222.cc](https://github.com/JoanK11/PRO1/blob/main/src/P51222-Nombre_de_digits_recursiu.cc)
+| [P96965 - Reducció de dígits](https://jutge.org/problems/P96965_ca) | [P96965.cc](https://github.com/JoanK11/PRO1/blob/main/P96965-Reduccio_de_digits.cc)
+| [P56549 - Canvis de base](https://jutge.org/problems/P56549_ca) | [P56549.cc](https://github.com/JoanK11/PRO1/blob/main/src/P56549-Canvis_de_base.cc)
+| [P35537 - Nombres creixents](https://jutge.org/problems/P35537_ca) | [P35537.cc](https://github.com/JoanK11/PRO1/blob/main/src/P35537-Nombres_creixents.cc)
+| [P22467 - Primers perfectes](https://jutge.org/problems/P22467_ca) | [P22467.cc]
+| [X50141 - Funció per engreixar nombres](https://jutge.org/problems/X50141_ca) | [X50141.cc](https://github.com/JoanK11/PRO1/blob/main/src/X50141-Funcio_per_engreixar_nombres.cc)
+| [P26041 - Girant una llista de paraules (1)](https://jutge.org/problems/P26041_ca) | [P26041.cc](https://github.com/JoanK11/PRO1/blob/main/src/P26041-Girant_una_llista_de_paraules_(1).cc)
+| [P52926 - Girant una llista de paraules (2)](https://jutge.org/problems/P52926_ca) | [P52926.cc](https://github.com/JoanK11/PRO1/blob/main/src/P52926-Girant_una_llista_de_paraules_(2).cc)
+| [P38877 - Girant una llista de paraules (4)](https://jutge.org/problems/P38877_ca) | [P38877.cc]
+| [P89336 - Girant una llista de paraules (6)](https://jutge.org/problems/P89336_ca) | [P89336.cc]
+| [P71398 - Procediment per al dígit màxim i mínim](https://jutge.org/problems/P71398_ca) | [P71398.cc]
+| [P62467 - Barres (1)](https://jutge.org/problems/P62467_ca) | [P62467.cc](https://github.com/JoanK11/PRO1/blob/main/src/P62467-Barres_(1).cc)
+| [P10694 - Barres (3)](https://jutge.org/problems/P10694_ca) | [P10694.cc](https://github.com/JoanK11/PRO1/blob/main/src/P10694-Barres_(3).cc)
+| [P20006 - Expressió prefixada](https://jutge.org/problems/P20006_ca) | [P20006.cc](https://github.com/JoanK11/PRO1/blob/main/src/P20006-Expressio_prefixada.cc)
+
+# P7 - Vectors
+| Problema Jutge | Solució |
+|----------------|---------|
