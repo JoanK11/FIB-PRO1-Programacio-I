@@ -156,3 +156,8 @@
 # P7 - Vectors
 | Problema Jutge | Solució |
 |----------------|---------|
+| [P14130 - Igual a l'últim](https://jutge.org/problems/P14130_ca) | [P14130.cc](https://github.com/JoanK11/PRO1/blob/main/src/P14130-Igual_a_l'ultim.cc)
+| [P67268 - Inversió de seqüències](https://jutge.org/problems/P67268_ca) | [P67268.cc](https://github.com/JoanK11/PRO1/blob/main/src/P67268-Inversio_de_sequencies.cc)
+| [P99133 - Invertint paraules (2)](https://jutge.org/problems/P99133_ca) | [P99133.cc](https://github.com/JoanK11/PRO1/blob/main/src/P99133-Invertint_paraules_(2).cc)
+| [P50036 - Regla de Horner](https://jutge.org/problems/P50036_ca) | [P50036.cc](https://github.com/JoanK11/PRO1/blob/main/src/P50036-Regla_de_Horner.cc)
+| [P63414 - Comptant freqüències](https://jutge.org/problems/P63414_ca) | [P63414.cc]
